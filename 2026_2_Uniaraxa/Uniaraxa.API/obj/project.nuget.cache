@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ctKzu/1ie0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\source\\repos\\2026_2_Uniaraxa\\Uniaraxa.API\\Uniaraxa.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
